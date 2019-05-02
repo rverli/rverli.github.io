@@ -1,0 +1,21 @@
+current directory: /home/rverli/HD-480Gb/1 - Development/workspace/resume-template/_vendor/bundle/ruby/2.5.0/gems/ffi-1.9.21/ext/ffi_c
+/usr/bin/ruby2.5 -r ./siteconf20190502-30894-1mfy3js.rb extconf.rb
+checking for ffi.h... no
+checking for ffi.h in /usr/local/include,/usr/include/ffi... no
+checking for shlwapi.h... no
+checking for rb_thread_blocking_region()... no
+checking for rb_thread_call_with_gvl()... yes
+checking for rb_thread_call_without_gvl()... yes
+creating extconf.h
+creating Makefile
+
+current directory: /home/rverli/HD-480Gb/1 - Development/workspace/resume-template/_vendor/bundle/ruby/2.5.0/gems/ffi-1.9.21/ext/ffi_c
+make "DESTDIR=" clean
+
+current directory: /home/rverli/HD-480Gb/1 - Development/workspace/resume-template/_vendor/bundle/ruby/2.5.0/gems/ffi-1.9.21/ext/ffi_c
+make "DESTDIR="
+/bin/sh: 1: Syntax error: "(" unexpected
+libffi.mk:6: recipe for target '"/home/rverli/HD-480Gb/1' failed
+make: *** ["/home/rverli/HD-480Gb/1] Error 2
+
+make failed, exit code 2

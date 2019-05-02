@@ -1,0 +1,87 @@
+# Jobs
+- company: Crossover for work
+  position: Senior Java Developer
+  duration: Apr, 2018 &mdash; Present
+  location: Remote Job
+  summary: Currently, I’m working as a Java Developer in a team that is responsible to maintain and implement new
+          features on School Loop - CMS for schools in K-12 districts in The United States.
+          The work started on acquisition processes during due diligence and import phases, my team was responsible
+          to implement all of the standards and central services that the company uses, like Continuous Integration,
+          database, cloud environment, etc.
+
+          <ul class="resume-item-list">
+            <li>Responsible to maintain Git repositories;</li>
+            <li>Responsible to lead the team through the development phases;</li>
+            <li>Responsible to implement continuous integration with Jenkins;</li>
+            <li>Java Development - Spring (Boot, MVC, Integration), Microservices, REST, Oracle/Postgres database, hibernate, TDD;</li>
+            <li>Expertise in the AWS cloud environment;</li>
+            <li>Creation of technical documents with system analysis;</li>
+            <li>Scrum Methodology.</li>
+          </ul>
+
+- company: Crossover for work
+  position: DevOps Engineer
+  duration: Feb, 2017 &mdash; Apr, 2018
+  location: Remote Job
+  summary: I’ve worked as a DevOps Engineer on acquisition processes during due diligence and import phases, our team
+          is responsible to implement all of the standards and central services that the company uses, like CI/CD,
+          AWS/IBM Cloud, Docker, K8s, cloud environment, etc.
+          I had an opportunity to work on more than one project at the same time and learning some technologies,
+          depending on which kind of company was bought. Crossover works buying other companies.
+
+          <ul class="resume-item-list">
+            <li>Application containerization using Docker and Kubernetes;</li>
+            <li>Expertise in AWS cloud environment;</li>
+            <li>Experience with tools such as Terraform, AWS CloudFormation, Ansible, Docker, Kubernetes, AWS ECS, Jenkins, Jervis, Pipeline as Code, Jervis, CI/CD, AWS CodePipeline, AWS CodeBuild, New Relic, Sonar, etc;</li>                        
+            <li>Creation of technical documents with system analysis;</li>
+            <li>Scrum Methodology.</li>
+          </ul>
+
+- company: Sicpa SA
+  position: Senior Java Developer
+  duration: Sep, 2013  &mdash; Jan, 2017
+  location: Rio de Janeiro, BR
+  summary: I’ve worked on a project that allows for more effective control, supervision and combating tax evasion in the
+          beverage manufacturing segment. Created an application for monitoring and called openings in real time via a
+          mobile application (Android). Created new alarm monitoring equipment on the production line, reducing the
+          time of opening and servicing by 80%.
+
+          <ul class="resume-item-list">
+            <li>DevOps implementation - Continuous integration with Jenkins;</li>
+            <li>Interface with customers, managing expectations, satisfaction with results, and quality assurance.</li>
+            <li>Application development in Java using microservices, Spring, Hibernate/JPA, REST/SOAP, JSON, JMS(ActiveMQ), and TDD.</li>            
+            <li>Scrum Methodology.</li>
+          </ul>
+
+- company: Petrobras SA
+  position: Senior Java Developer
+  duration: Oct, 2009  &mdash; Jun, 2013
+  location: Rio de Janeiro, BR
+  summary: Developed and maintained a system that controls the measurement of payments signed with contractors to
+          perform services. ​ Supported in the preparation of technical training, as well as responsible for the
+          implementation of introductory training. Mentored new developers.
+
+          <ul class="resume-item-list">
+            <li>Front-end interface in Adobe Flex using BlazeDS;</li>
+            <li>Optimized Oracle queries time by 40%;</li>
+            <li>Created and maintained methods of exporting and importing data, which helped the end customer in their integration with the system;</li>
+            <li>Managed reports to support and monitor receivables and monthly measurements;</li>            
+          </ul>
+
+- company: BRQ Digital Solutions
+  position: Java Developer
+  duration: Apr, 2008  &mdash; Oct, 2009
+  location: Rio de Janeiro, BR
+  summary: <ul class="resume-item-list">
+            <li>Java developing and System analysis (technical documents/diagrams);</li>
+            <li>Analysis and construction of log consolidation system and reporting;</li>            
+          </ul>
+
+- company: Thate Intelligent Software
+  position: Java Developer
+  duration: Apr, 2008  &mdash; Oct, 2009
+  location: Rio de Janeiro, BR
+  summary: <ul class="resume-item-list">
+            <li>Architecture, analysis, and development in Java applications;</li>
+            <li>Analysis and development of Globo.com systems;</li>            
+          </ul>
